@@ -64,6 +64,11 @@
 
 21. git merge branch2 - mu pravam merge na branch 2 so master
 
+    ***Se javuva konflikt bidejki gi modificiram dokumentite vo istiot red
+	pa doagja do prepokrivanje na vrednostite i tuka se javuva konflikt,
+	konfliktot go resavam taka sto ke ja otvoram master grankata, ke vlezam vo
+        datotekata so konflikti ke gi izbrisam konfliktite i ke zacuvam.
+
 22. git add. - dodavam 
     git commit -m "Add docs" - stage faza i prakjram poraka deka e dodadena datotekata so komandi
 

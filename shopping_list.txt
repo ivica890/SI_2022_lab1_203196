@@ -1,11 +1,8 @@
 1. Eggs x2
 2. Cheese x12
 3. Tomatoes x3
-<<<<<<< HEAD
 4. Broccoli x2
 5. Pork x4
-6. Salt x2
-=======
-4. Broccoli x7
-5. Pork x10
->>>>>>> branch1
+
+
+
