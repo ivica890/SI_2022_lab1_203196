@@ -1,5 +1,5 @@
-1. Eggs
-2. Cheese
-3. Tomatoes
-4. Broccoli
-5. Pork
+1. Eggs x2
+2. Cheese x5
+3. Tomatoes x3
+4. Broccoli x7
+5. Pork x4
