@@ -8,19 +8,19 @@
 4. git clone https://github.com/ivica890/SI_2022_lab1_203196.git
 
 5. git cd SI_2022_lab1_203196 - za vlez vo folderot
-   git add . - za da se dodade kreiraniot shopping_list.txt
-   git commit -m "Add 5 items to the shopping list" - da se stavat na stage
+   git add . - za da se dodade kreiraniot shopping_list.txt- stage faza
+   git commit -m "Add 5 items to the shopping list" - 
    git push - za da go stavam lokalnoto repo na github
 
 6. nano shopping_list.txt - ja otvaram datotekata i vo nea pravam promeni so ctrl+O->save,ctrl+x->exit
-   git add . - gi dodavam promenite lokalno
-   git commit -m "Add quantities to the items" - stage faza
+   git add . - gi dodavam promenite lokalno - stage faza
+   git commit -m "Add quantities to the items" 
    git push - gi stavam na repo na github.
 
 7. git branch branch1 - kreiram prva granka
    git branch branch2 - kreiram vtora granka
-   git add . - dodavam
-   git commit -m "Adding branches" - stage faza
+   git add . - dodavam - stage faza
+   git commit -m "Adding branches" 
    git push
 
 8.//
@@ -31,15 +31,15 @@
 10. git checkout branch1 - se prefrlam od master na branch1
 
 11. nano shopping_list.txt - ja otvaram datotekata i vo nea pravam promeni so ctrl+O->save,ctrl+x->exit
-    git add . - dodavam
-    git commit -m "Change quantity of item #5" - stage faza
+    git add . - dodavam - stage faza
+    git commit -m "Change quantity of item #5" 
     git push origin branch1 - stavam na branch1 grankata
    
 12. git checkout master - se vrakjam na master
 
 13. nano shopping_list.txt - ja otvaram datotekata i vo nea pravam promeni so ctrl+O->save,ctrl+x->exit
-    git add . - dodavam
-    git commit -m "Change quantity of item #2" - stage faza
+    git add . - dodavam - stage faza
+    git commit -m "Change quantity of item #2" 
     git push - dodavam na github repo
 
 14. sinhroniziram posle sekoj cekor
@@ -47,21 +47,21 @@
 15. git checkout branch2
 
 16. nano shopping_list.txt - ja otvaram datotekata i vo nea pravam promeni so ctrl+O->save,ctrl+x->exit
-    git add . - dodavam
+    git add . - dodavam - stage faza
     git commit -m "Modify item #4"
     git push origin branch2
 
 17. Gi vnesuvam postepeno cekor po cekor kako sto se baranјata
 
 18. nano shopping_list.txt - ja otvaram datotekata i vo nea pravam promeni so ctrl+O->save,ctrl+x->exit
-    git add . - dodavam
-    git commit -m "Modify of item #4 and add item #6" - stage faza
+    git add . - dodavam - stage faza
+    git commit -m "Modify of item #4 and add item #6" 
     git push origin branch 2 
 
 19. Gi vnesuvam postepeno cekor po cekor kako sto se baranјata
 
-20. git checkout master - se prefrlam na master.
-    git merge branch1 - mu pravam merge na branch1 so master
+20. git checkout master - se prefrlam na master. 
+    git merge branch1 - mu pravam merge na branch1 so master 
 
 21. git merge branch2 - mu pravam merge na branch 2 so master
 
@@ -70,8 +70,8 @@
 	konfliktot go resavam taka sto ke ja otvoram master grankata, ke vlezam vo
         datotekata so konflikti ke gi izbrisam konfliktite i ke zacuvam.
 
-22. git add. - dodavam 
-    git commit -m "Add docs" - stage faza i prakjram poraka deka e dodadena datotekata so komandi
+22. git add. - dodavam  - stage faza
+    git commit -m "Add docs" - prakjram poraka deka e dodadena datotekata so komandi
 
 23. Sinhroniziram posle sekoj cekor (git push).
 
